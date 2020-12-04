@@ -1,5 +1,5 @@
 # 50 Projects in 50 days or less
-<p>Following along with Brad Traversy and Florin Pop on Udemy. Solidifying my understanding of HTML, CSS, and Javascript</p>
+<p>Following along with Brad Traversy and Florin Pop on Udemy. Sharpening my understanding of HTML, CSS, and Javascript</p>
 <p>This is a purely project-based course. This course includes 50 mini projects in HTML, CSS & Javascript that relate to the DOM (Document Object Model). 
 
 # Following Projects that will be created:
