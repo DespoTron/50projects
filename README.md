@@ -1,16 +1,18 @@
 # 50 Projects in 50 days or less
+
 <p>Following along with Brad Traversy and Florin Pop on Udemy. Sharpening my understanding of HTML, CSS, and Javascript</p>
-<p>This is a purely project-based course. This course includes 50 mini projects in HTML, CSS & Javascript that relate to the DOM (Document Object Model). 
+<p>This is a purely project-based course. This course includes 50 mini projects in HTML, CSS & Javascript that relate to the DOM (Document Object Model).
 
 # Following Projects that will be created:
+
 <p>If projects are not bolded they are not completed</p>
 <ol>
-  <li>Expanding Cards</li>
-  <li>Progress Steps </li>
-  <li>Rotating Navigation Animation</li>
-  <li>Hidden Search Widget</li>
-  <li>Blurry Loading</li>
-  <li>Scroll Animation</li>
+  <li><b>Expanding Cards</b></li>
+  <li><b>Progress Steps</b></li>
+  <li><b>Rotating Navigation Animation</b></li>
+  <li><b>Hidden Search Widget</b></li>
+  <li><b>Blurry Loading</b></li>
+  <li><b>Scroll Animation</b></li>
   <li>Split Landing Page</li>
   <li>Form Wave</li>
   <li>Sound Board</li>
