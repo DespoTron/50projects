@@ -16,6 +16,16 @@ body {
   margin: 0;
 }
 
+h1 {
+  font-size: 4rem;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
 .container {
   position: relative;
   width: 100%;
@@ -32,7 +42,7 @@ body {
 
 .split.left {
   left: 0;
-  background: url('https://cbsnews3.cbsistatic.com/hub/i/r/2020/06/11/ea2b6ee5-6955-42a5-bb76-bb775df093f1/thumbnail/1200x630/11b096d4ab612a908a4e054454eae910/playstation5-a.png');
+  background: url('ps.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -47,7 +57,7 @@ body {
 
 .split.right {
   right: 0;
-  background: url('https://image-cdn.essentiallysports.com/wp-content/uploads/20200708172210/maxresdefault-1-64.jpg');
+  background: url('xbox.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
