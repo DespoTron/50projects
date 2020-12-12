@@ -13,7 +13,7 @@
   <li><b>Hidden Search Widget</b></li>
   <li><b>Blurry Loading</b></li>
   <li><b>Scroll Animation</b></li>
-  <li>Split Landing Page</li>
+  <li><b>Split Landing Page</b></li>
   <li>Form Wave</li>
   <li>Sound Board</li>
   <li>Dad Jokes</li>
