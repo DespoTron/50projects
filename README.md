@@ -14,8 +14,8 @@
   <li><b>Blurry Loading</b></li>
   <li><b>Scroll Animation</b></li>
   <li><b>Split Landing Page</b></li>
-  <li>Form Wave</li>
-  <li>Sound Board</li>
+  <li><b>Form Wave</b></li>
+  <li><b>Sound Board</b></li>
   <li>Dad Jokes</li>
   <li>Event Keycodes</li>
   <li>Faq Collapse</li>
