@@ -18,7 +18,7 @@
   <li><b>Sound Board</b></li>
   <li><b>Dad Jokes</b></li>
   <li><b>Event Keycodes</b></li>
-  <li>Faq Collapse</li>
+  <li><b>Faq Collapse</b></li>
   <li>Random Choice Picker</li>
   <li>Animated Navivation</li>
   <li>Incrementing Counter</li>
