@@ -16,8 +16,8 @@
   <li><b>Split Landing Page</b></li>
   <li><b>Form Wave</b></li>
   <li><b>Sound Board</b></li>
-  <li>Dad Jokes</li>
-  <li>Event Keycodes</li>
+  <li><b>Dad Jokes</b></li>
+  <li><b>Event Keycodes</b></li>
   <li>Faq Collapse</li>
   <li>Random Choice Picker</li>
   <li>Animated Navivation</li>
