@@ -19,7 +19,7 @@
   <li><b>Dad Jokes</b></li>
   <li><b>Event Keycodes</b></li>
   <li><b>Faq Collapse</b></li>
-  <li>Random Choice Picker</li>
+  <li><b>Random Choice Picker</b></li>
   <li>Animated Navivation</li>
   <li>Incrementing Counter</li>
   <li>Drink Water</li>
