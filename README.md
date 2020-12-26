@@ -20,7 +20,7 @@
   <li><b>Event Keycodes</b></li>
   <li><b>Faq Collapse</b></li>
   <li><b>Random Choice Picker</b></li>
-  <li>Animated Navivation</li>
+  <li><b>Animated Navivation</b></li>
   <li>Incrementing Counter</li>
   <li>Drink Water</li>
   <li>Movie App</li>
