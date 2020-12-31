@@ -21,8 +21,8 @@
   <li><b>Faq Collapse</b></li>
   <li><b>Random Choice Picker</b></li>
   <li><b>Animated Navivation</b></li>
-  <li>Incrementing Counter</li>
-  <li>Drink Water</li>
+  <li><b>Incrementing Counter</b></li>
+  <li><b>Drink Water</b></li>
   <li>Movie App</li>
   <li>Background Slider</li>
   <li>Theme Clock</li>
