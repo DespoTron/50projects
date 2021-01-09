@@ -18,12 +18,8 @@ body {
 header {
   padding: 1rem;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   background-color: var(--secondary-color);
-}
-
-header img {
-  padding-right: 526px;
 }
 
 .search {
