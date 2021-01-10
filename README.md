@@ -23,8 +23,8 @@
   <li><b>Animated Navivation</b></li>
   <li><b>Incrementing Counter</b></li>
   <li><b>Drink Water</b></li>
-  <li>Movie App</li>
-  <li>Background Slider</li>
+  <li><b>Movie App</b></li>
+  <li><b>Background Slide</b>r</li>
   <li>Theme Clock</li>
   <li>Button Riplle Effect</li>
   <li>Drag N Drop</li>
