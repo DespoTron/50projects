@@ -25,9 +25,9 @@
   <li><b>Drink Water</b></li>
   <li><b>Movie App</b></li>
   <li><b>Background Slide</b>r</li>
-  <li>Theme Clock</li>
-  <li>Button Riplle Effect</li>
-  <li>Drag N Drop</li>
+  <li><b>Theme Clock</b></li>
+  <li><b>Button Riplle Effect</b></li>
+  <li><b>Drag N Drop</b></li>
   <li>Drawing App</li>
   <li>Kinetic Loader</li>
   <li>Content Placeholder</li>
