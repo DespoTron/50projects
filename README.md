@@ -28,9 +28,9 @@
   <li><b>Theme Clock</b></li>
   <li><b>Button Riplle Effect</b></li>
   <li><b>Drag N Drop</b></li>
-  <li>Drawing App</li>
-  <li>Kinetic Loader</li>
-  <li>Content Placeholder</li>
+  <li><b>Drawing App</b></li>
+  <li><b>Kinetic Loader</b>/li>
+  <li><b>Content Placeholder</b></li>
   <li>Sticky Navbar</li>
   <li>Double Vertical Slider</li>
   <li>Toast Notification</li>
