@@ -31,10 +31,10 @@
   <li><b>Drawing App</b></li>
   <li><b>Kinetic Loader</b>/li>
   <li><b>Content Placeholder</b></li>
-  <li>Sticky Navbar</li>
-  <li>Double Vertical Slider</li>
-  <li>Toast Notification</li>
-  <li>Github Profiles</li>
+  <li><b>Sticky Navbar</b></li>
+  <li><b>Double Vertical Slider</b></li>
+  <li><b>Toast Notification</b></li>
+  <li><b>Github Profiles</b></li>
   <li>Double Click Heart</li>
   <li>Auto Text Effect</li>
   <li>Password Generator</li>
