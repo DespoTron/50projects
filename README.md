@@ -35,8 +35,8 @@
   <li><b>Double Vertical Slider</b></li>
   <li><b>Toast Notification</b></li>
   <li><b>Github Profiles</b></li>
-  <li>Double Click Heart</li>
-  <li>Auto Text Effect</li>
+  <li><b>Double Click Heart</b></li>
+  <li><b>Auto Text Effect</b></li>
   <li>Password Generator</li>
   <li>Good Cheap Fast</li>
   <li>Notes App</li>
