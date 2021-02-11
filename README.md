@@ -37,8 +37,8 @@
   <li><b>Github Profiles</b></li>
   <li><b>Double Click Heart</b></li>
   <li><b>Auto Text Effect</b></li>
-  <li>Password Generator</li>
-  <li>Good Cheap Fast</li>
+  <li><b>Password Generator</b></li>
+  <li><b>Good Cheap Fast</b></li>
   <li>Notes App</li>
   <li>Animated Countdown</li>
   <li>Image Carousel</li>
