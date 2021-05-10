@@ -41,7 +41,7 @@
   <li><b>Good Cheap Fast</b></li>
   <li><b>Notes AppM</b></li>
   <li><b>Animated Countdown</b></li>
-  <li>Image Carousel</li>
+  <li><b>Image Carousel</b></li>
   <li>Hoverboard</li>
   <li>Pokedex</li>
   <li>Mobile Tab Navigation</li>
