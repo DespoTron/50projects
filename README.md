@@ -39,8 +39,8 @@
   <li><b>Auto Text Effect</b></li>
   <li><b>Password Generator</b></li>
   <li><b>Good Cheap Fast</b></li>
-  <li>Notes App</li>
-  <li>Animated Countdown</li>
+  <li><b>Notes AppM</b></li>
+  <li><b>Animated Countdown</b></li>
   <li>Image Carousel</li>
   <li>Hoverboard</li>
   <li>Pokedex</li>
